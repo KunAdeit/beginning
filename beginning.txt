@@ -1,0 +1,3 @@
+Beginning
+- Bisa memahami dasar-dasar dan konsep dari web programming
+- Membuat Web Sederhana namun mudah dipahami
